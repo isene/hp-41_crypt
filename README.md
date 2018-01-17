@@ -1,6 +1,8 @@
 # hp-41_crypt
 ## HP-41: Cryptography
 
+**NOTE:** This program is part of the ISENE.ROM (https://github.com/isene/hp-41_isene-rom). The FOCAL listing can be found in the "src" folder of that project. Any updates and new version will be found there.
+
 Introducing encryption to the HP-41
 
 This cryptography program encrypts or decrypts an ascii Extended Memory (XM). Ypou can also temporarily view an encrypted file without substituting the file with the decrypted version.
