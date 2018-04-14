@@ -19,3 +19,6 @@ ENCR	|Encrypts an ascii file. The file name must be in Alpha when you execute EN
 DECR	|Decrypts the file (name in Alpha. Prompts for the range and the key (use the same range and the same key as when you encrypted the file. Again you will get a "DONE" and a beep when the process is completed. Pressing R/S again will launch the EDitor (ED) to let you view and edit the decrypted file.
 VIEWCR	|Lets you view an encrypted file. Instead of actually decrypting the whole file, you get to view each successive record. The program sounds a Tone 9 upon showing each record. The file remains encrypted in Extended Memory. After the last record is viewed, the program displays "DONE" and gives a beep. All traces of the key is removed.
 
+## License
+This software is released into the Public Domain.
+
